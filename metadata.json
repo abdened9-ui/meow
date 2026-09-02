@@ -1,0 +1,11 @@
+{
+  "name": "Meow",
+  "description": "An ultra-smooth, private 1-on-1 mobile messaging app with disappearing snaps, mood-adaptive themes, camera lenses, and intimate calls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
